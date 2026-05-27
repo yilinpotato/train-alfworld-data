@@ -1,0 +1,19 @@
+{
+  "episodes": 20,
+  "success_rate": 0.35,
+  "avg_episode_steps": 31.45,
+  "avg_episode_prompt_tokens": 47757.1,
+  "avg_episode_completion_tokens": 9537.95,
+  "avg_episode_total_tokens": 57295.05,
+  "avg_step_latency_s": 11.52033518542149,
+  "total_prompt_tokens": 955142,
+  "total_completion_tokens": 190759,
+  "total_tokens": 1145901,
+  "wall_time_s": 3877.5684973170282,
+  "episodes_requested": 20,
+  "task_type_id": 6,
+  "task_type": "pick_two_and_place",
+  "task_filter": "pick_two_obj_and_place",
+  "model": "deepseek-v4-pro",
+  "base_url": "https://api.deepseek.com"
+}

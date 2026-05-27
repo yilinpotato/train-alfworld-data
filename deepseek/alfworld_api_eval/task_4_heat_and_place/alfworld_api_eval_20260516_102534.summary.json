@@ -1,0 +1,19 @@
+{
+  "episodes": 100,
+  "success_rate": 0.46,
+  "avg_episode_steps": 31.29,
+  "avg_episode_prompt_tokens": 18487.98,
+  "avg_episode_completion_tokens": 10421.43,
+  "avg_episode_total_tokens": 28909.41,
+  "avg_step_latency_s": 12.382330672227114,
+  "total_prompt_tokens": 1848798,
+  "total_completion_tokens": 1042143,
+  "total_tokens": 2890941,
+  "wall_time_s": 21449.28577635903,
+  "episodes_requested": 100,
+  "task_type_id": 4,
+  "task_type": "heat_and_place",
+  "task_filter": "pick_heat_then_place_in_recep",
+  "model": "deepseek-v4-pro",
+  "base_url": "https://api.deepseek.com"
+}

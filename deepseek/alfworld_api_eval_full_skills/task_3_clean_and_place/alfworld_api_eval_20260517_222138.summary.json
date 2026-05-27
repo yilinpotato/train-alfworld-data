@@ -1,0 +1,19 @@
+{
+  "episodes": 20,
+  "success_rate": 0.45,
+  "avg_episode_steps": 27.65,
+  "avg_episode_prompt_tokens": 48483.9,
+  "avg_episode_completion_tokens": 6080.3,
+  "avg_episode_total_tokens": 54564.2,
+  "avg_step_latency_s": 9.42355190960469,
+  "total_prompt_tokens": 969678,
+  "total_completion_tokens": 121606,
+  "total_tokens": 1091284,
+  "wall_time_s": 2777.632172608981,
+  "episodes_requested": 20,
+  "task_type_id": 3,
+  "task_type": "clean_and_place",
+  "task_filter": "pick_clean_then_place_in_recep",
+  "model": "deepseek-v4-pro",
+  "base_url": "https://api.deepseek.com"
+}
